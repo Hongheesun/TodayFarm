@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400;500;600;700&family=Mouse+Memoirs&family=Single+Day&display=swap');
+
+ body {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-family: 'Single Day', cursive;
+}
+
+.introduce-paragraph {
+    position: absolute;
+    padding: 10px;
+    border: 1px solid gray;
+    box-shadow: 2px 6px 9px -5px #000000;
+    border-radius: 10px;
+    width: 65%;
+    left: 15%;
+    top: 10%;
+}
+
+.login-form {
+
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 23%;
+    
+}
+
+input {
+    
+    margin: 10px;
+    padding:5px;
+    outline: none;
+   
+}
+
+button {
+    margin-top: 15px;
+    margin-left: 30px;
+    width: 70%;
+    font-weight: 500;
+    padding: 10px 7px;
+    border: 0.5px solid gray;
+    background-color: rgb(197, 248, 232);
+    border-radius: 15px;
+    
+}
+
+a {
+    position: absolute;
+    top: 82%;
+    left: 43%;
+
+    color: black(23, 207, 20);
+    font-weight: 300;
+    text-decoration-line: none;
+    color: gray;
+    text-decoration: underline;
+}
+
+
+
+
